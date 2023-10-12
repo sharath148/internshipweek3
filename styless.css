@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.music-player {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.controls button {
+    margin: 10px;
+}
